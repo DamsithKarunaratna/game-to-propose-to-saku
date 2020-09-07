@@ -1,0 +1,237 @@
+{"frames": [
+
+{
+	"filename": "coin.png",
+	"frame": {"x":2,"y":2,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "fly_dead.png",
+	"frame": {"x":377,"y":2,"w":69,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":32},
+	"sourceSize": {"w":69,"h":32},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "fly_fly.png",
+	"frame": {"x":2,"y":52,"w":69,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":31},
+	"sourceSize": {"w":69,"h":31},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "fly_normal.png",
+	"frame": {"x":73,"y":52,"w":69,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":32},
+	"sourceSize": {"w":69,"h":32},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "ring.png",
+	"frame": {"x":39,"y":2,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "shadedDark01.png",
+	"frame": {"x":172,"y":238,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":100},
+	"sourceSize": {"w":96,"h":100},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "shadedDark07.png",
+	"frame": {"x":270,"y":238,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":160},
+	"sourceSize": {"w":160,"h":160},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "shadedDark13.png",
+	"frame": {"x":171,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "shadedDark15.png",
+	"frame": {"x":221,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "shadedDark30.png",
+	"frame": {"x":271,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "shadedDark36.png",
+	"frame": {"x":144,"y":52,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "slime_dead.png",
+	"frame": {"x":321,"y":2,"w":54,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":8},
+	"sourceSize": {"w":54,"h":8},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "slime_normal.png",
+	"frame": {"x":81,"y":2,"w":43,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":28},
+	"sourceSize": {"w":43,"h":28},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "slime_walk.png",
+	"frame": {"x":126,"y":2,"w":43,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":26},
+	"sourceSize": {"w":43,"h":26},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0001.png",
+	"frame": {"x":226,"y":52,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0002.png",
+	"frame": {"x":311,"y":52,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0003.png",
+	"frame": {"x":396,"y":52,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0004.png",
+	"frame": {"x":2,"y":145,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0005.png",
+	"frame": {"x":87,"y":145,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0006.png",
+	"frame": {"x":172,"y":145,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0007.png",
+	"frame": {"x":257,"y":145,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0008.png",
+	"frame": {"x":342,"y":145,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0009.png",
+	"frame": {"x":427,"y":145,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0010.png",
+	"frame": {"x":2,"y":238,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+},
+{
+	"filename": "walk0011.png",
+	"frame": {"x":87,"y":238,"w":83,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":91},
+	"sourceSize": {"w":83,"h":91},
+	"pivot": {"x":0.5,"y":1}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b3b7d22034a44cdec71183452d3c724c:6718f3e0478a5067b42bc97bb720652c:88db1022cd6b660616541d2788fcd4f7$"
+}
+}
